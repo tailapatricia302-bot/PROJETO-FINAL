@@ -6,6 +6,7 @@ O  projeto em sitem como principal objetivo o desenvolvimento de um sistema inte
 
 O sistema permitirá que o cliente (consumidor final) visualize os produtos disponíveis para venda de forma online, podendo realizar pedidos diretamente pela plataforma.
 
+---
 
 ##  Funcionalidades do Cliente
 
